@@ -13,7 +13,7 @@
 
 ---
 
-Based in Nepal, working across full-stack product development — from database and API design to frontend architecture — with a focus on multi-tenant SaaS, CMS/CRM platforms, and B2B business applications.
+Based in Nepal, working across full-stack product development — from database and API design to frontend architecture — with a focus on multi-tenant SaaS, CMS/CRM platforms, and  business applications.
 
 ### Tech Stack
 
