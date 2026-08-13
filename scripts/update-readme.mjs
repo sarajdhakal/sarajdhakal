@@ -1,7 +1,3 @@
-// Fetches recent public GitHub activity and writes it into README.md
-// between the START/END markers. Run by .github/workflows/update-readme.yml
-// on a schedule, so the "Live Activity" section stays current with no
-// manual edits.
 
 import { readFileSync, writeFileSync } from "node:fs";
 
