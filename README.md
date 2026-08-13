@@ -13,7 +13,7 @@
 
 ---
 
-Based in Nepal, working across full-stack product development — from database and API design to frontend architecture — with a focus on multi-tenant SaaS, CMS/CRM platforms, and business applications.
+Based in Nepal, working across full-stack product development — from database and API design to frontend architecture — with a focus on multi-tenant SaaS, CMS/CRM platforms, and B2B business applications.
 
 ### Tech Stack
 
@@ -35,11 +35,11 @@ Based in Nepal, working across full-stack product development — from database 
 ### GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sarajdhakal&show_icons=true&hide_border=true&hide_title=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarajdhakal&layout=compact&hide_border=true&hide_title=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sarajdhakal&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=tokyonight&bg_color=0D1117" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarajdhakal&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&bg_color=0D1117" alt="Top languages" />
 </p>
 <p align="left">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sarajdhakal&hide_border=true" alt="GitHub streak stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sarajdhakal&hide_border=true&theme=tokyonight&background=0D1117" alt="GitHub streak stats" />
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=sarajdhakal&label=Profile+views&color=30363d&style=flat)
