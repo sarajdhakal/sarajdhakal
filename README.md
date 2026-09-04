@@ -13,35 +13,95 @@
 
 ---
 
-Based in Nepal, working across full-stack product development — from database and API design to frontend architecture — with a focus on multi-tenant SaaS, CMS/CRM platforms, and  business applications.
+Based in Nepal, working across full-stack product development — from database and API design to frontend architecture — with a focus on multi-tenant SaaS, CMS/CRM platforms, and business applications.
 
-### Tech Stack
+## Featured projects
 
-| Layer | Tools |
+### Buyer Portal
+
+> Buyer-facing portal with JWT authentication and a favourites system.
+
+`React (Vite)` `Node.js` `Express` `MongoDB`
+
+**Highlights**
+
+- JWT-based auth flow between a Vite/React client and an Express API
+- Favourites system backed by a MongoDB data model
+- Backend and frontend run as separate services with a proxied dev setup
+
+[Live Demo](https://buyer-portal-psi.vercel.app) · [Repository](https://github.com/sarajdhakal/buyer-portal)
+
+### SARAZ — Electric Mobility Storefront
+
+> Ecommerce storefront for a fictional EV brand, built to work through App Router architecture end-to-end.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Zod` `Framer Motion`
+
+**Highlights**
+
+- Next.js App Router with Zod-validated data flow and strict TypeScript
+- Zustand for cart and session state
+- Orders, payments, and email run in explicit mock/dev modes rather than faking a real integration
+
+[Live Demo](https://electric-scooter-alpha.vercel.app) · [Repository](https://github.com/sarajdhakal/electric-scooter)
+
+### Task Unity
+
+> Kanban-based project management tool for tracking work across teams and projects.
+
+`Django` `Tailwind CSS`
+
+**Highlights**
+
+- Drag-and-drop Kanban board — To-Do / In Progress / Review / Done
+- Multi-user project and task ownership
+
+[Repository](https://github.com/sarajdhakal/project_taskunity)
+
+### Fuel-Optimizer
+
+> Django API that plans long-distance US road trips around fuel cost.
+
+`Django` `REST API` `Python`
+
+**Highlights**
+
+- Route generation against a live routing API (OpenStreetMap / ORS / MapQuest)
+- Fuel-stop selection driven by a real fuel-price dataset
+- Renders an interactive map of the route and recommended stops
+
+[Repository](https://github.com/sarajdhakal/fuel-optimizer)
+
+### Movie Recommender System
+
+> Content-based recommendation engine over movie descriptions and genres.
+
+`Python` `scikit-learn` `NLTK`
+
+**Highlights**
+
+- TF-IDF vectorization and cosine similarity for content-based matching
+- Text preprocessing pipeline built on NLTK
+
+[Repository](https://github.com/sarajdhakal/movie_recommender_system)
+
+## Engineering stack
+
+| Area | Tools |
 |---|---|
-| Frontend | React · Next.js · JavaScript · Tailwind CSS · Bootstrap |
+| Frontend | React · Next.js · TypeScript/JavaScript · Tailwind CSS · Bootstrap |
 | Backend | Node.js · Express · Python · Django · Django REST Framework · PHP |
-| Database | PostgreSQL · MySQL · SQLite · Prisma |
+| Data | PostgreSQL · MySQL · SQLite · MongoDB · Prisma |
+| AI / Data | Python · scikit-learn |
 | Tooling | Git · GitHub · REST APIs |
 
-### What I Build
+## What I build
 
-- End-to-end web applications, from database schema to frontend
-- REST APIs and backend services that power business platforms
+- End-to-end web applications, from schema design to frontend
+- REST APIs and backend services for business platforms
 - Admin dashboards and internal tools for day-to-day operations
 - Authentication, authorization, and data-driven workflows
-- Performance and reliability work on existing systems
 
-### GitHub Stats
+## Connect
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sarajdhakal&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=tokyonight&bg_color=0D1117" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarajdhakal&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&bg_color=0D1117" alt="Top languages" />
-</p>
-<p align="left">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sarajdhakal&hide_border=true&theme=tokyonight&background=0D1117" alt="GitHub streak stats" />
-</p>
-
-![Profile views](https://komarev.com/ghpvc/?username=sarajdhakal&label=Profile+views&color=30363d&style=flat)
-
-Most of what I work on lives in my repositories — feel free to look around.
+[GitHub](https://github.com/sarajdhakal) · [LinkedIn](https://linkedin.com/in/saraj-dhakal-592658253) · [Portfolio](https://sarajdhakal.com.np) · [Email](mailto:dhakalsaraj@gmail.com)
