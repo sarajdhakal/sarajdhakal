@@ -1,4 +1,4 @@
-<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal window: saraj@engineering ~ whoami — Computer Engineer, Full-Stack Software Engineer, building SaaS, CMS/CRM and B2B platforms">
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal window: saraj@engineer ~ whoami — Computer Engineer, Full-Stack Software Engineer, building SaaS, CMS/CRM and B2B platforms">
   <defs>
     <linearGradient id="winGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#161b22"/>
@@ -15,11 +15,11 @@
   <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
   <circle cx="64" cy="18" r="6" fill="#27c93f"/>
-  <text x="400" y="22" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">saraj@engineering: ~</text>
+  <text x="400" y="22" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">saraj@engineer: ~</text>
 
   <!-- prompt line -->
   <text x="28" y="70" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
-    <tspan fill="#58a6ff">saraj@engineering</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> whoami</tspan>
+    <tspan fill="#58a6ff">saraj@engineer</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> whoami</tspan>
   </text>
 
   <!-- rotating response lines, self-contained (no external requests) -->
@@ -38,6 +38,6 @@
 
   <!-- idle prompt beneath the rotating line -->
   <text x="28" y="150" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
-    <tspan fill="#58a6ff">saraj@engineering</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#7ee787">▍<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/></tspan>
+    <tspan fill="#58a6ff">saraj@engineer</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#7ee787">▍<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/></tspan>
   </text>
 </svg>
