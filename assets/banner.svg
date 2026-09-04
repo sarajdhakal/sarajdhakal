@@ -21,9 +21,6 @@
   <text x="28" y="70" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
     <tspan fill="#58a6ff">saraj@engineering</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> whoami</tspan>
   </text>
-  <rect x="188" y="58" width="9" height="16" fill="#7ee787">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
 
   <!-- rotating response lines, self-contained (no external requests) -->
   <text x="28" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#7ee787">
@@ -41,9 +38,6 @@
 
   <!-- idle prompt beneath the rotating line -->
   <text x="28" y="150" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
-    <tspan fill="#58a6ff">saraj@engineering</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan>
+    <tspan fill="#58a6ff">saraj@engineering</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#7ee787">▍<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/></tspan>
   </text>
-  <rect x="164" y="138" width="9" height="16" fill="#7ee787">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
 </svg>
